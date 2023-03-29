@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+    box-sizing: 5px;
+}
+div{
+    margin: auto;
+    border: solid 2px;
+    color: rgb(38, 0, 255);
+}
